@@ -1,0 +1,273 @@
+.box{
+    width: 85%;
+    height: 3000px;
+    border: 1px solid black;
+    margin: 0 auto;
+   
+    background-image:url(../img/phone.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+nav{
+    width: 100%;
+    height: 100px;
+    
+    display: flex;
+}
+.nav-d1{
+    width: 40%;
+    height: 100px;
+    padding-top: 15px;
+    padding-left: 110px;
+}
+.nav-d2{
+    width: 28%;
+    height: 100px;
+  
+    display: flex;
+    grid-gap: 50px;
+    
+}
+.nav-divik1{
+    margin-top: 10px;
+    height: 20px;
+    color: white;
+}
+.nav-divik1>img{
+margin-top: -10px;
+position: absolute;
+}
+.nav-divik2{
+    margin-top: 10px;
+    color: white;
+}
+
+.nav-divik3{
+    margin-top: 10px;
+    color: white;
+}
+.nav-but{
+    width: 10%;
+    height: 50px;
+    border: 3px solid darkgoldenrod;
+    margin-top: 22px;
+    margin-left: 30px;
+   color: darkgoldenrod;
+   font-size: 18px;
+   background: none;
+}
+b{
+    color: darkgoldenrod;
+}
+header{
+    width: 100%;
+    height: 600px;
+   
+    display: flex;
+    flex-wrap: wrap;
+}
+.head-d1{
+width: 50%;
+height: 530px;
+
+
+
+
+}
+.head-d2{
+    width: 50%;
+    height: 530px;
+   
+   
+     }
+ .head-d3{
+        width: 100%;
+        height: 70px;
+        
+        
+        
+        }
+.h2{
+    font-family: 'Oxanium';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 90px;
+margin-left: 110px;
+color: white;
+
+}
+.buttonu{
+    width: 60%;
+    height: 100px;
+   
+    margin-left: 110px;
+    display: flex;
+    grid-gap: 70px;
+}
+.head-but{
+    width: 35%;
+    height: 60px;
+    background:darkgoldenrod;
+    font-size: 20px;
+
+}
+.head-but2{
+    width: 35%;
+    height: 60px;
+    border: 1px solid darkgoldenrod;
+    background: none;
+    font-size: 20px;
+
+}
+.head-img2{
+    width: 61%;
+    height: 60px;
+    margin-left: 110px;
+}
+.head-div2{
+width: 55%;
+height: 400px;
+
+
+}
+.purple{
+    width: 100%;
+    height: 320px;
+    background-image:url(../img/purpl.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+.block-purple{
+    width: 99%;
+    height:100px;
+    background-image:url(../img/pink.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+  
+}
+.white{
+    width: 100%;
+    height: 80px;
+    background-image:url(../img/Subtract.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 150px;
+    display: flex;
+}
+.block-purple-div{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 70px;
+    
+}
+.h3{
+    font-size: 15px;
+   color: white;
+   margin-top: 20px;
+   margin-left: 50px;
+}
+.h4{
+    font-size: 18px;
+   color: white;
+   margin-top: 1px;
+   margin-left: 50px;
+}
+.ends{
+    width: 20%;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+.white-block{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 30px;
+    grid-gap: 10px;
+   padding-top: 10px;
+   padding-left: 50px;
+}
+.white-block2{
+    width: 30%;
+    height: 50px;
+    background: darkgoldenrod;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 140px;
+   
+
+}
+.imgiki{
+    width: 92%;
+    height: 80px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.imgiki>img{
+    width: 12%;
+    height: 30px;
+}
+.sect1{
+    width: 100%;
+    height: 690px;
+  
+    
+}
+.sect1>img{
+    width: 17%;
+    height: 100px;
+    margin-left:650px ;
+}
+.strelki{
+    width: 25%;
+    height: 80px ;
+   margin-left: 1240px;
+   grid-gap: 160px;
+   padding-left: 160px;
+}
+.imgeha{
+    margin-left: 20px;
+}
+.slider{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.slider>img{
+    width: 28%;
+    height: 490px;
+    
+}
+aside{
+    width: 100%;
+    height: 300px;
+    border: 1px solid black;
+
+}
+.image-how{
+    width: 16%;
+    height: 50px;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+.aside-image{
+    width: 100%;
+    height: 100px;
+    justify-content: space-around;
+    grid-gap: 20px;
+    
+}
+.smerkae{
+   
+}
+.postepeno-smerkae{
+    
+}
